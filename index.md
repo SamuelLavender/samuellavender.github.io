@@ -21,6 +21,6 @@ My interests include, transportation, data analysis and nuclear technology.
 
 ---
 
-##Links
+## Links
 
 [LinkedIn](https://www.linkedin.com/in/samuel-lavender1-/)
