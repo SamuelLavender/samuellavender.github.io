@@ -11,13 +11,7 @@ My interests include, transportation, data analysis and nuclear technology.
 
 ---
 
-## Skills
-
-- Python
-- Project Planning
-- AutoCad/Civil3D
-- GIS
-- Data Analysis
+## [Skills](skills.md)
 
 ---
 
