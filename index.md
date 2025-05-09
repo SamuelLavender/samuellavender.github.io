@@ -24,4 +24,6 @@ My interests include, transportation, data analysis and nuclear technology.
 
 ## Links
 
-[LinkedIn](https://www.linkedin.com/in/samuel-lavender1-/)
+- [LinkedIn](https://www.linkedin.com/in/samuel-lavender1-/)
+- [Personal Email](mailto:samuellavender04@gmail.com)
+- [School Email](mailto:slavender2@huskers.unl.edu)
