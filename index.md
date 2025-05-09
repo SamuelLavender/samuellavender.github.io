@@ -1,6 +1,8 @@
 --- 
 title: Samuel Lavender
+layout: default
 ---
+
 Welcome to my personal website! Here you can find all the information about my background, projects and interests.
 
 ---
