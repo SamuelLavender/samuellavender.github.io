@@ -18,3 +18,9 @@ My interests include, transportation, data analysis and nuclear technology.
 - AutoCad/Civil3D
 - GIS
 - Data Analysis
+
+---
+
+##Links
+
+[LinkedIn](https://www.linkedin.com/in/samuel-lavender1-/)
